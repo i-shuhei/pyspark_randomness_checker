@@ -1,2 +1,6 @@
--r requiremnts.txt
+-r ./requirements.txt
 pre-commit
+jupyter
+black
+pyspark<3.0.0
+isort
