@@ -1,10 +1,10 @@
 # TODO
 
 ## linting
-- [ ] auto black
-- [ ] auto flake8
-- [ ] auto isort
-- [ ] auto mypy
+- [x] auto black
+- [x] auto flake8
+- [x] auto isort
+- [x] auto mypy
   
 ## src
 - [ ] function to detect randomness
